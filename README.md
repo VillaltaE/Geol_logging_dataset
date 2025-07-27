@@ -10,8 +10,19 @@ Supervised learning techniques (linear regression) and unsupervised learning tec
 Data were added to the DataFrame based on available data, for example, VP from DTC, and VS derived from VP.
 
 ## Used libraries
-
+### Exploratory analysis
 * import pandas as pd
 * import numpy as np
 * import matplotlib.pyplot as plt
 * import seaborn as sns
+
+### Machine learming
+* import statsmodels.api as sm
+* from sklearn.cluster import KMeans
+* from sklearn.preprocessing import StandardScaler
+* from sklearn.linear_model import LogisticRegression
+* from sklearn.ensemble import RandomForestClassifier
+* from sklearn.model_selection import RandomizedSearchCV,train_test_split
+* from sklearn.metrics import accuracy_score
+* from sklearn.impute import SimpleImputer
+
