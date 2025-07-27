@@ -15,6 +15,7 @@ Data were added to the DataFrame based on available data, for example, VP from D
 * import numpy as np
 * import matplotlib.pyplot as plt
 * import seaborn as sns
+* import plotly.express as px
 
 ### Machine learming
 * import statsmodels.api as sm
