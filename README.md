@@ -33,4 +33,5 @@ Data were added to the DataFrame based on available data, for example, VP from D
 * Depth_MD ( feet) [DEPTH_MD] from 494.52 to 3272.02
 * Neutron  (fraction) [NPHI]  from 0.02 to 0.80
 * Photoelectric factor (barns/electron) [PE] from 1.01 to 66.03
-* Compresional sonic ($\miu$/feet)
+* Compresional sonic (μ⋅s/ft) [DTC]
+
